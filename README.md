@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ceren 👋</h1>
-<h3 align="center">Software Engineering Student · Builder · Curious Mind</h3>
+<h3 align="center">Software Engineering Student · Builder · Always Learning</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ceren-azar-ba9358297/">
